@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate-project-headerparser",
+  "version": "1.0.0",
+  "description": "This project is done as a certification project for freeCodeCamp back-end development and API program",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathias-tad/boilerplate-project-headerparser.git"
+  },
+  "keywords": [],
+  "author": "Mathias Bekele",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mathias-tad/boilerplate-project-headerparser/issues"
+  },
+  "homepage": "https://github.com/mathias-tad/boilerplate-project-headerparser#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
